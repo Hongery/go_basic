@@ -1,0 +1,17 @@
+[2020-09-01 21:55:09][FATAL] [main.go:main:20]这是一条Fatal日志
+[2020-09-01 21:55:09][FATAL] [main.go:main:20]这是一条Fatal日志
+[2020-09-01 21:55:09][INFO] [main.go:main:15]这是一条Info日志
+[2020-09-01 21:55:09][WARNING] [main.go:main:16]这是一条Warning日志
+[2020-09-01 21:55:09][ERROR] [main.go:main:19]这是一条Error日志id:10010,name:lixiang
+[2020-09-01 21:55:09][FATAL] [main.go:main:20]这是一条Fatal日志
+[2020-09-01 21:55:09][FATAL] [main.go:main:20]这是一条Fatal日志
+[2020-09-01 21:55:09][INFO] [main.go:main:15]这是一条Info日志
+[2020-09-01 21:55:09][WARNING] [main.go:main:16]这是一条Warning日志
+[2020-09-01 21:55:09][ERROR] [main.go:main:19]这是一条Error日志id:10010,name:lixiang
+[2020-09-01 21:55:09][FATAL] [main.go:main:20]这是一条Fatal日志
+[2020-09-01 21:55:09][FATAL] [main.go:main:20]这是一条Fatal日志
+[2020-09-01 21:55:09][INFO] [main.go:main:15]这是一条Info日志
+[2020-09-01 21:55:09][WARNING] [main.go:main:16]这是一条Warning日志
+[2020-09-01 21:55:09][ERROR] [main.go:main:19]这是一条Error日志id:10010,name:lixiang
+[2020-09-01 21:55:09][FATAL] [main.go:main:20]这是一条Fatal日志
+[2020-09-01 21:55:09][FATAL] [main.go:main:20]这是一条Fatal日志
